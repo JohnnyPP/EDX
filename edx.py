@@ -27,6 +27,8 @@ def image_name(file_name):
 
 ###############################################################################
 
+#file_path = '/home/kolan/mycode/python/EDX/data/' #linux path
+
 file_name = '1A_200X_5kV_01a.csv'      
 file_path = 'C:\\Users\\Jola\\Desktop\\pd-dupa\\samples1_2_02072014\\EDX\\'
 x_limit = 10
